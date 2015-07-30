@@ -67,6 +67,6 @@
     "test": "mocha --compilers coffee:coffee-script/register --reporter spec"
   },
   "dependencies": {
-    "slack-client": "git+https://github.com/Nesurion/node-slack-client.git#8f067b0603a62497243a6c4653d3b797b6207836"
+    "slack-client": "git+https://github.com/Nesurion/node-slack-client.git#705ca8b00e11f58843284ffddc0ec216605d1976"
   }
 }
