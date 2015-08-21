@@ -67,6 +67,6 @@
     "test": "mocha --compilers coffee:coffee-script/register --reporter spec"
   },
   "dependencies": {
-    "slack-client-nesurion": "1.4.4"
+    "slack-client-nesurion": "1.4.5"
   }
 }
