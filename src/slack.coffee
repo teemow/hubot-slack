@@ -2,7 +2,7 @@
 {SlackTextMessage, SlackRawMessage, SlackBotMessage} = require './message'
 {SlackRawListener, SlackBotListener} = require './listener'
 
-SlackClient = require 'slack-client-nesurion'
+SlackClient = require 'slack-client-teemow'
 Util = require 'util'
 
 class SlackBot extends Adapter
